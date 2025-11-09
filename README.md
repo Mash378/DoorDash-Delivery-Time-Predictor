@@ -9,19 +9,19 @@ This project builds a predictive model to estimate how long a DoorDash order wil
 
 Key highlights:
 
-*Cleaned, preprocessed, and transformed real DoorDash delivery data.
-*Engineered high-signal features such as busy_dashers_ratio.
-*Reduced multicollinearity using a correlation matrix.
-*Trained an optimized XGBoost regression model for accurate ETA prediction.
-*Deployed an easy-to-use web app for real-time delivery time estimates.
+Cleaned, preprocessed, and transformed real DoorDash delivery data.
+Engineered high-signal features such as busy_dashers_ratio.
+Reduced multicollinearity using a correlation matrix.
+Trained an optimized XGBoost regression model for accurate ETA prediction.
+Deployed an easy-to-use web app for real-time delivery time estimates.
 
 🔧 Tech Stack
 
-*Python
-*XGBoost
-*Pandas, NumPy, Scikit-learn
-*Matplotlib / Seaborn
-*Gradio (for the web UI)
-*Hugging Face Spaces (for deployment)
+Python
+XGBoost
+Pandas, NumPy, Scikit-learn
+Matplotlib / Seaborn
+Gradio (for the web UI)
+Hugging Face Spaces (for deployment)
 
 
