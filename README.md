@@ -1,4 +1,27 @@
-I built a machine learning model that users can use to predict the delivery time of their Door Dash food delivery.
+🚀 DoorDash Delivery Time Predictor
 
-The model was built using the python language and utilzing the scikit learn, numpy, seaborn and gradio frameworks. I explored, cleaned, and preprocessed the data for training the model as well as fine tuning and deploying the model using.
-The model offers a good estimate of the delivery time, achieving an MAE of 11 minutes. 
+An end-to-end machine learning application that predicts food delivery durations using real-world DoorDash order data.
+This project covers data cleaning, feature engineering, model training with XGBoost, and deployment as an interactive web app on Hugging Face Spaces.
+
+📌 Project Overview
+
+This project builds a predictive model to estimate how long a DoorDash order will take from pickup to drop-off.
+
+Key highlights:
+
+*Cleaned, preprocessed, and transformed real DoorDash delivery data.
+*Engineered high-signal features such as busy_dashers_ratio.
+*Reduced multicollinearity using a correlation matrix.
+*Trained an optimized XGBoost regression model for accurate ETA prediction.
+*Deployed an easy-to-use web app for real-time delivery time estimates.
+
+🔧 Tech Stack
+
+*Python
+*XGBoost
+*Pandas, NumPy, Scikit-learn
+*Matplotlib / Seaborn
+*Gradio (for the web UI)
+*Hugging Face Spaces (for deployment)
+
+
