@@ -24,4 +24,19 @@ Key highlights:
 * Gradio (for the web UI)
 * Hugging Face Spaces (for deployment)
 
+## 🌐 Deployment
 
+The model is deployed as an interactive web application using Gradio and Hugging Face Spaces.
+
+👉 **Live Demo:**  
+https://huggingface.co/spaces/Mash37/DoorDash_Delivery_time_predictor
+
+Or run it locally:
+
+```bash
+python app.py
+```
+
+Author
+Mashroor Newaz
+Feel free to reach out for questions, suggestions, or collaboration.
